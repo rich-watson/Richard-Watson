@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Stock Ticker</string>
+    <string name="add">Add</string>
+    <string name="triangle">\u25B2</string>
+    <string name="triangle1">\u25BC</string>
+</resources>

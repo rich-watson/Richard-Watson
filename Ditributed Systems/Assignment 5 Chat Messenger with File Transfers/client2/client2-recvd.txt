@@ -1,0 +1,36 @@
+Waiting on server
+What is your name?
+Sending your name to the server
+Enter an option ('m', 'f', 'x'):
+ (M)essage (send)
+ (F)ile (request)
+e(X)it
+client1: hello from client1
+Enter your message:
+Enter an option ('m', 'f', 'x'):
+ (M)essage (send)
+ (F)ile (request)
+e(X)it
+client3: hello from client3
+client1: nice day to chat
+Enter your message:
+Enter an option ('m', 'f', 'x'):
+ (M)essage (send)
+ (F)ile (request)
+e(X)it
+client3: Looking forward to chat
+one-liners.txt exists
+Who owns the file?
+Which file do you want?
+Chat Client binded on: 6003
+Enter an option ('m', 'f', 'x'):
+ (M)essage (send)
+ (F)ile (request)
+e(X)it
+client1: gotcha
+Enter your message:
+Enter an option ('m', 'f', 'x'):
+ (M)essage (send)
+ (F)ile (request)
+e(X)it
+client3: Nice to meet you!

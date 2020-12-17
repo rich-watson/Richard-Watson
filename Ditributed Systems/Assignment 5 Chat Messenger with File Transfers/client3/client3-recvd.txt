@@ -1,0 +1,35 @@
+Waiting on server
+What is your name?
+Sending your name to the server
+Enter an option ('m', 'f', 'x'):
+ (M)essage (send)
+ (F)ile (request)
+e(X)it
+client1: hello from client1
+client2: hello from client2
+Enter your message:
+Enter an option ('m', 'f', 'x'):
+ (M)essage (send)
+ (F)ile (request)
+e(X)it
+client1: nice day to chat
+client2: truly
+Enter your message:
+Enter an option ('m', 'f', 'x'):
+ (M)essage (send)
+ (F)ile (request)
+e(X)it
+Who owns the file?
+Which file do you want?
+Chat Client binded on: 6004
+Enter an option ('m', 'f', 'x'):
+ (M)essage (send)
+ (F)ile (request)
+e(X)it
+client1: gotcha
+client2: working well
+Enter your message:
+Enter an option ('m', 'f', 'x'):
+ (M)essage (send)
+ (F)ile (request)
+e(X)it

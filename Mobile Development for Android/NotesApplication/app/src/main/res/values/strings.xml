@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Notes Application</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="about">About</string>
+    <string name="info">info</string>
+    <string name="add">add</string>
+    <string name="enter_title_of_note"><![CDATA[< Enter Title of Note >]]></string>
+    <string name="enter_body_of_note"><![CDATA[< Enter Body of Note >]]></string>
+    <string name="save_button">save_button</string>
+    <string name="version1_0">Version1.0</string>
+    <string name="_2020_richard_watson">© 2020, Richard Watson</string>
+    <string name="notes_application">Notes Application</string>
+
+
+</resources>

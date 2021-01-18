@@ -41,7 +41,7 @@
       <a href="#stock-watcher-with-iex-trading-api">Stock Watcher</a>
     </li>
     <li>
-      <a href="#know-your-government-with-google-civic-api">Know Your Government</a>
+      <a href="#know-your-government-application-with-google-civic-api">Know Your Government</a>
     </li>
   </ol>
 </details>

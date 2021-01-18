@@ -213,7 +213,7 @@
 
 <!-- Know Your Government Application -->
 <details open="open">
-  <summary><h2>Know your Government with Google Civic API</h2></summary>
+  <summary><h2>Know your Government Application with Google Civic API</h2></summary>
 
 #### Application awaits location permissions on first bootup
 
